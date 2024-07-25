@@ -59,7 +59,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Ce TP utilise le framework java SpringBoot ainsi que le cadriciel Vue.js. L'objectif de ce TP est de mettre en place des micro service afin de gérer des utilisateurs et des activités.
+Ce POC utilise le framework java SpringBoot ainsi que le cadriciel Vue.js. L'objectif du projet est de mettre en place des micro-services afin de gérer des utilisateurs et des activités.
 
 Il permet de :
 * Créer un compte utilisateur
@@ -83,7 +83,7 @@ Liste et documentations des frameworks et outils utilisés.
 <!-- INSTALLATION -->
 ## Installation
 
-_Instruction à suivre pour faire marcher le projet._
+_faites marcher le projet._
 
 Executer chaques commandes à partir du repertoire courant dans un terminal différent pour chaque module.
 ### Micro services 
@@ -180,7 +180,7 @@ Se rendre sur ``http://localhost:8080/``
 ## TESTS
 
 *Cette section est dédiée aux tests des micros services.
-Je vais d'abord effectuer des requetes sur le port 8081 (activités) puis sur le port 8082 (user)* 
+J'ai' d'abord effectué des requetes sur le port 8081 (activités) puis sur le port 8082 (user)* 
 
 ### Activity Service Tests
 1. récupération des activités
